@@ -1,3 +1,4 @@
+Email para contato: nicholaslage@usp.br
 O código foi pensado no estilde uma pasta que estejam todas as noites de observação, claro que isso pode ser modificado facilamente para separar por ano, mas ainda é algo muito básico, ele busca dentro 
 de uma pasta onde vão estar as noites de observação, depois entrea na pasta raw, nessa pasta vão estar o calib e seus objetos observados.
 
